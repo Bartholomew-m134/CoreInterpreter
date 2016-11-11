@@ -1,0 +1,9 @@
+program
+ int x,y;
+begin 
+ input x;
+ x := 4;
+ if !(x<5) then y:=6; endif;
+ x:=y;
+ y:=7;
+end

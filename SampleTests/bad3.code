@@ -1,0 +1,1 @@
+program int x,y; int z,x; begin x:=5; end
